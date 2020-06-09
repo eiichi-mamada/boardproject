@@ -43,6 +43,11 @@ body {
   border-top-right-radius: 0;
 }
 
+.signup {
+  margin-top: 10px;
+  width: 100%;
+}
+
 h1{
   margin-bottom:30px;
   padding-bottom: 30px;
